@@ -1,0 +1,4 @@
+Encryption.MainActivity, Encryption;md5c5bea594852335e59824cd7ff2680047.MainActivity
+Encryption.MainActivity, Encryption, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c5bea594852335e59824cd7ff2680047.MainActivity
+Encryption.MainActivity;md5c5bea594852335e59824cd7ff2680047.MainActivity
+encryption.MainActivity;md5c5bea594852335e59824cd7ff2680047.MainActivity

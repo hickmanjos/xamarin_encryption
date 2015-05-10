@@ -1,0 +1,14 @@
+C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\bin\Debug\Encryption.dll
+C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\bin\Debug\Encryption.pdb
+C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\bin\Debug\Encryption.dll.mdb
+C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\bin\Debug\Encryption.Encryption.apk
+C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\bin\Debug\Encryption.Encryption-Signed.apk
+C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\obj\Debug\Encryption.dll
+C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\obj\Debug\Encryption.pdb
+C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\obj\Debug\android\bin\Encryption.Encryption.apk
+C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\obj\Debug\res\layout\main.xml
+C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\obj\Debug\res\values\strings.xml
+C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\obj\Debug\res\drawable\icon.png
+C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\obj\Debug\R.cs.flag
+C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\obj\Debug\uploadflags.txt
+C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
