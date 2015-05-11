@@ -10,16 +10,13 @@ using Android.Views.Animations;
 
 namespace Encryption
 {
-    [Activity(Label = "Encryption", MainLauncher = true, Icon = "@drawable/icon")]
-    public class MainActivity : Activity
+    [Activity(Label = "Encryption")]
+    public class Decryption : Activity
     {
-        int seconds = 0;
-        CountDownTimer timer;
-
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-            SetContentView(Resource.Layout.Main);
+            SetContentView(Resource.Layout.Decryption);
 
             EditText input = FindViewById<EditText>(Resource.Id.input);
             

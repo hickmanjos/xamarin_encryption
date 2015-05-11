@@ -62,7 +62,7 @@
             android:background="@android:drawable/dialog_holo_light_frame"
             android:textColor="@android:color/background_dark"
             android:textSize="25dp"
-            android:editable="true"
+            android:editable="false"
             android:layout_width="195.8dp"
             android:layout_height="match_parent"
             android:layout_marginRight="29.9dp"
@@ -70,7 +70,7 @@
             android:textStyle="bold" />
         <Button
             android:text="Refresh Key"
-            android:id="@+id/encrypt_btn"
+            android:id="@+id/key_btn"
             android:layout_width="141.7dp"
             android:layout_height="match_parent" />
     </LinearLayout>
@@ -94,7 +94,7 @@
         android:minWidth="25px"
         android:minHeight="25px">
         <EditText
-            android:id="@+id/excrypted_text"
+            android:id="@+id/encrypted_text"
             android:background="@android:drawable/dialog_holo_light_frame"
             android:textColor="@android:color/background_dark"
             android:textSize="20dp"
