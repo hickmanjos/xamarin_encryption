@@ -12,4 +12,3 @@ C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\obj\Debug\res\drawable\icon.p
 C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\obj\Debug\R.cs.flag
 C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\obj\Debug\uploadflags.txt
 C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\obj\Debug\res\layout\decryption.xml
-C:\Users\Josh\Desktop\Xamrin\Encryption\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache

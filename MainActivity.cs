@@ -28,8 +28,15 @@ namespace Encryption
             EditText encrypted = FindViewById<EditText>(Resource.Id.encrypted_text);
             Button key_btn = FindViewById<Button>(Resource.Id.key_btn);
             Button encrypt_btn = FindViewById<Button>(Resource.Id.encrypt_btn);
+            Button flip = FindViewById<Button>(Resource.Id.decrypt_switch);
 
             key_view.Text = key.ToString();
+
+            flip.Click += (sender, e) =>
+            {
+                StartActivity(typeof(Decryption));
+            };
+
 
             key_btn.Click += (sender, e) =>
             {

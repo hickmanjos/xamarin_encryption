@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Encryption.Encryption" android:versionCode="1" android:versionName="1.0">
   <uses-sdk android:minSdkVersion="11" />
   <application android:label="Encryption" android:icon="@drawable/icon" android:theme="@android:style/Theme.DeviceDefault.DialogWhenLarge.NoActionBar" android:name="mono.android.app.Application" android:debuggable="true">
-    <activity android:label="Encryption" android:name="md5c5bea594852335e59824cd7ff2680047.Decryption" />
+    <activity android:label="Decryption" android:name="md5c5bea594852335e59824cd7ff2680047.Decryption" />
     <activity android:icon="@drawable/icon" android:label="Encryption" android:name="md5c5bea594852335e59824cd7ff2680047.MainActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Encryption.Encryption.mono.MonoRuntimeProvider.__mono_init__" />
     <receiver android:name="mono.android.Seppuku">

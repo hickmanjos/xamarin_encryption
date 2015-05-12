@@ -63,17 +63,23 @@ namespace Encryption
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060007
-			public const int decrypt_switch = 2131099655;
+			// aapt resource value: 0x7f060003
+			public const int decrypt_btn = 2131099651;
+			
+			// aapt resource value: 0x7f06000b
+			public const int decrypt_switch = 2131099659;
 			
 			// aapt resource value: 0x7f060006
 			public const int decrypted_text = 2131099654;
 			
-			// aapt resource value: 0x7f060003
-			public const int encrypt_btn = 2131099651;
+			// aapt resource value: 0x7f060008
+			public const int encrypt_btn = 2131099656;
 			
-			// aapt resource value: 0x7f060009
-			public const int encrypted_text = 2131099657;
+			// aapt resource value: 0x7f060007
+			public const int encrypt_switch = 2131099655;
+			
+			// aapt resource value: 0x7f06000a
+			public const int encrypted_text = 2131099658;
 			
 			// aapt resource value: 0x7f060002
 			public const int input = 2131099650;
@@ -81,8 +87,8 @@ namespace Encryption
 			// aapt resource value: 0x7f060005
 			public const int key = 2131099653;
 			
-			// aapt resource value: 0x7f060008
-			public const int key_btn = 2131099656;
+			// aapt resource value: 0x7f060009
+			public const int key_btn = 2131099657;
 			
 			// aapt resource value: 0x7f060004
 			public const int key_view = 2131099652;
